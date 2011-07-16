@@ -74,7 +74,7 @@
 	<distributionManagement>
 		<repository>
 			<id>local</id>
-			<url>http://10.25.0.110:8081/nexus/content/repositories/releases/</url>
+			<url>http://10.25.0.111:8081/nexus/content/repositories/releases/</url>
 		</repository>
 	</distributionManagement>
 
